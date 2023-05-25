@@ -49,7 +49,7 @@ This project focuses on building and training a deep learning model for digit cl
 - The code and documentation in this project are released under the <a href="https://opensource.org/license/mit/" target="_blank"><u>**`MIT License`**</u></a>.
 
 ## **Credits**
-This project is created by `[Surya Pratap]` and is based on the MNIST dataset and TensorFlow library.
+This project is created by <a href="https://github.com/SP85691">`[Surya Pratap]`</a> and is based on the MNIST dataset and TensorFlow library.
 
 ## **Requirements**
 ```
